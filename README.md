@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AlvaroDias099
+- 👀 I’m interested in  Programação...
+- 🌱 I’m currently learning  Python...
+- 📫 How to reach me  Nakano Miku....#9627 Discord....
+
+<!---
+AlvaroDias099/AlvaroDias099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
