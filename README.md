@@ -2,7 +2,7 @@
 
 - 🖥️ Hoje Trabalho com Front-end
 - 📖 Estudo: HTML, JAVASCRIPT, CSS
-- 😀 Pronouns: ele/ela
+- 😀 Pronouns: ele/ele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvarodias&show_icons=falsee&theme=dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroDias)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,5 +24,7 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-dias-0b1b01188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/Mateus-Batista12/Mateus-Batista12/blob/output/github-contribution-grid-snake.svg)
   
 </div>
