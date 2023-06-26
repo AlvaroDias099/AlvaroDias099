@@ -1,4 +1,4 @@
-## Ola, Eu sou Alvario Dias 099
+## Ola, Eu sou Alvaro Dias 099
 
 - 🖥️ Hoje Trabalho com Front-end
 - 📖 Estudo: HTML, JAVASCRIPT, CSS
