@@ -1,4 +1,4 @@
-Alvaro Dias. Desenvolvedor front-end
+<h1>Alvaro Dias. Desenvolvedor front-end</h1>
 
 Olá, meu nome é Álvaro, sou estudante de desenvolvimento front-end.
 Bem-vindo(a) à minha página do Github!
