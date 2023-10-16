@@ -22,5 +22,12 @@
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%A1lvaro-dias-0b1b01188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  
 </div>
+
+##
+<div style="display: flex; gap: 10px">
+  <a href="https://www.linkedin.com/in/álvaro-dias-0b1b01188/)>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MARCIAHELENALIMA&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+</div>
+  
+![ Animação de cobra ](https://user-images.githubusercontent.com/112713600/210834429-99258731-0f98-46ea-b0cc-ccf38a664124.svg)
